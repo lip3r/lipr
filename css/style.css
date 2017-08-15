@@ -1,0 +1,98 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,900');
+</style>
+
+/* ---------------- */
+/* - CSS - START - */
+/* -------------- */
+
+body, p, li {
+	font-family: 'Raleway', sans-serif;
+	font-size: 10pt;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 26pt;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 22pt;
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18pt;
+}
+
+header {
+	margin: -5%;
+	padding: 20% 5% 20% 20%;
+	position: fixed;
+	text-align: right;
+	background-color: #fff;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+nav {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+}
+
+section {
+	font-family: 'Raleway', sans-serif;
+	padding: 1% 1% 1% 30%;
+}
+
+section:child {
+	width: 100%;
+}
+
+img {
+	float: left;
+	margin: 1%;
+}
+
+#item1 {
+	width: 50%;
+}
+
+#item2 {
+	width: 45%
+}
+
+#item3 {
+	width: 27.5%
+}
+
+#item4 {
+	width: 16.3%
+}
+
+#item5 {
+	width: 16.3%
+}
+
+#item6 {
+	width: 10%
+}
+
+.info {
+	padding-top: 15%;
+}
+
+.container {
+	width: 100%;
+	padding: 2.5% 10% 2.5% 10%;
+	background-color: #eee;
+
+}
+
+/* -------------- */
+/* - CSS - END - */
+/* ------------ */
